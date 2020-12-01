@@ -1,0 +1,1 @@
+h1{font-size:60px;color:#00f}@media screen and (min-width:400px) and (max-width:690px){h1{color:#ff0}}@media screen and (min-width:400px) and (max-width:690px) and (orientation:landscape){h1{font-size:60px}}@media screen and (min-width:691px) and (max-width:1190px){h1{color:green}}
