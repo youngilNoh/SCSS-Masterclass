@@ -60,3 +60,33 @@
 - [x] Mixins
 - [x] Extend
 - [x] Responsive Mixins
+
+## To Clone:
+
+- [] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
+- [] [https://paint-box.com/](https://paint-box.com/)
+- [] [http://10x19.co/](http://10x19.co/)
+- [] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
+- [] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
+- [] [https://tolv.dk/](https://tolv.dk/)
+- [] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
+- [] [https://beige.de/](https://beige.de/)
+- [] [http://donicaida.com/](http://donicaida.com/)
+- [] [https://canalstreet.market/](https://canalstreet.market/)
+- [] [https://wonhundred.com/](https://wonhundred.com/)
+
+## Challenge
+ - [x] Day1
+ - [x] Day2
+ - [x] Day3
+ - [x] Day4
+ - [x] Day5
+ - [x] Day6
+ - [x] Day7(BreakDay~)
+ - [x] Day8
+ - [x] Day9
+ - [x] Day10
+ - [x] Day11
+ - [x] Day12
+ - [x] Day13
+ - [x] Day14
